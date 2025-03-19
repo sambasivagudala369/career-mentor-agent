@@ -52,5 +52,5 @@ This project is open-source and free to use.
    git push -u origin main
 
 ### 5️⃣ Mp App Link
-https://fuzzy-waddle-44g5jgr7jxjhqj77-8501.app.github.dev/
+[https://fuzzy-waddle-44g5jgr7jxjhqj77-8501.app.github.dev/](https://career-mentor-agent-wuys6av3zrxfxtzr3ujvy6.streamlit.app/)
 
